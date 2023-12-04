@@ -1,5 +1,5 @@
 # Tic Tac Toe
-# GrumpyOgre
+
 
 import random, os, time
 
